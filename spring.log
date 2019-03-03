@@ -1,0 +1,28 @@
+2019-03-02 10:54:28,411 - Starting helloTest on DESKTOP-MS7BQIJ with PID 14660 (started by 14775 in E:\javaProject\boot-all)
+2019-03-02 10:54:28,412 - No active profile set, falling back to default profiles: default
+2019-03-02 10:54:28,477 - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6e2829c7: startup date [Sat Mar 02 10:54:28 CST 2019]; root of context hierarchy
+2019-03-02 10:54:29,846 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-03-02 10:54:30,069 - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@6e2829c7: startup date [Sat Mar 02 10:54:28 CST 2019]; root of context hierarchy
+2019-03-02 10:54:30,191 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-03-02 10:54:30,193 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-03-02 10:54:30,225 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-03-02 10:54:30,225 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-03-02 10:54:30,528 - Started helloTest in 2.632 seconds (JVM running for 3.382)
+2019-03-02 10:54:30,683 - info....
+2019-03-02 10:54:30,684 - warn....
+2019-03-02 10:54:30,684 - err....
+2019-03-02 10:54:30,696 - Closing org.springframework.web.context.support.GenericWebApplicationContext@6e2829c7: startup date [Sat Mar 02 10:54:28 CST 2019]; root of context hierarchy
+2019-03-02 10:55:39,358 - Starting helloTest on DESKTOP-MS7BQIJ with PID 14932 (started by 14775 in E:\javaProject\boot-all)
+2019-03-02 10:55:39,373 - No active profile set, falling back to default profiles: default
+2019-03-02 10:55:39,404 - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@333d4a8c: startup date [Sat Mar 02 10:55:39 CST 2019]; root of context hierarchy
+2019-03-02 10:55:40,626 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-03-02 10:55:40,762 - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@333d4a8c: startup date [Sat Mar 02 10:55:39 CST 2019]; root of context hierarchy
+2019-03-02 10:55:40,837 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-03-02 10:55:40,841 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-03-02 10:55:40,875 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-03-02 10:55:40,876 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-03-02 10:55:41,105 - Started helloTest in 2.174 seconds (JVM running for 3.093)
+2019-03-02 10:55:41,191 - info....
+2019-03-02 10:55:41,192 - warn....
+2019-03-02 10:55:41,192 - err....
+2019-03-02 10:55:41,196 - Closing org.springframework.web.context.support.GenericWebApplicationContext@333d4a8c: startup date [Sat Mar 02 10:55:39 CST 2019]; root of context hierarchy
